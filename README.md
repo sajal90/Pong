@@ -1,6 +1,6 @@
 # HOW TO PLAY 
 
-  click ENTER or tap the START button to get to game window,
+  press ENTER or click the START button to get to game window,
   
   use keyboard button 'W' and 'S' to move right side/player 1 PADDLE,
   
