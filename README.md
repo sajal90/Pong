@@ -1,4 +1,4 @@
-#HOW TO PLAY 
+# HOW TO PLAY 
 
   click ENTER or tap the START button to get to game window,
   
